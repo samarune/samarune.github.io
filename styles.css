@@ -1,0 +1,24 @@
+body {
+    background: rgb(53, 95, 7);     /* red, blue, yellow, etc */
+    color: rgb(255, 255, 255);            /* red, blue, yellow, etc */
+    font-size: 20px;        /* 0px - 100px and beyond */
+    font-weight: lighter;   /* lighter, normal, bold  */
+    text-align: center;      /* left, center or right  */ 
+    margin-top: 5px;        /* From 0px and upwards   */
+}
+.realshit {
+    text-decoration-line: underline;
+}
+img {
+width: 500px;
+height: auto;
+}
+
+nav {
+    color: rgb(0, 0, 0);
+    text-align: right;  
+}
+
+a:visited{
+    color: rgb(255,255,255);
+}
